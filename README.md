@@ -1,1 +1,2 @@
-# RestaurantReservation
+ChatGPT said:
+The Restaurant Reservation System is a JavaFX application that manages table bookings, menu orders, and membership-based discounts using a structured object-oriented approach. It follows design patterns like Singleton for centralized control and Strategy via interfaces for flexible discount handling across different membership levels. Data is stored in text files, and the user interface allows interactive table selection, order creation, and real-time discount application.
